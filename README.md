@@ -1,4 +1,4 @@
-# Bot YogoVideo
+# Bot https://play.google.com/store/apps/details?id=com.tahu.fep
 
 Cara pakai install termux
 Ketik 
@@ -11,10 +11,12 @@ git clone https://github.com/Thaniiaa/bot/
 
 cd bot
 
-php yogo.php
+php tahu.php
 
-Cara ambil, tk, token sama uuid buka YogoVideo
+Isi Token :
 
-Cari Video yg mana aja terus pilih Share > Copy Link > paste ke notepad disitu ada
+Jumlah :
 
-Source code by : Nabila Tools
+Jeda :
+
+Source code by : Nabila Tools f.t Angga ID
